@@ -51,6 +51,7 @@ Each surah and verse contains:
 ```bash
 pip install -r requirements.txt
 pip install gradio arabic-reshaper python-bidi gensim scikit-learn matplotlib wordcloud sentence-transformers
+---
 
 Models Used
 Method	Model or Technique
